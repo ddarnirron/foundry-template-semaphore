@@ -1,0 +1,15 @@
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/poseidon-solidity"]
+	path = lib/poseidon-solidity
+	url = https://github.com/chancehudson/poseidon-solidity
+[submodule "lib/zk-kit.solidity"]
+	path = lib/zk-kit.solidity
+	url = https://github.com/privacy-scaling-explorations/zk-kit.solidity
+[submodule "lib/semaphore"]
+	path = lib/semaphore
+	url = https://github.com/semaphore-protocol/semaphore
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
