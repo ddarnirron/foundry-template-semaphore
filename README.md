@@ -20,3 +20,15 @@ Then, install the required test-dependencies:
 cd test/utils && npm install
 ```
 
+## Getting Started
+
+You can build the project by running:
+```shell
+forge build
+```
+
+And run the tests using:
+```shell
+forge test --ffi
+```
+
