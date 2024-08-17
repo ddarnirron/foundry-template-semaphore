@@ -10,7 +10,13 @@ A Foundry template for building PSE Semaphore smart contracts.
 
 ## Installation
 
+You can install this template to create a new project using the following command:
 ```shell
 forge init -t ddarnirron/foundry-template-semaphore ./custom-semaphore-project
+```
+
+Then, install the required test-dependencies:
+```shell
+cd test/utils && npm install
 ```
 
