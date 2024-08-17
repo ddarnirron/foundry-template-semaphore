@@ -1,0 +1,4 @@
+forge-std/=lib/forge-std/src/
+@semaphore-protocol=lib/semaphore/packages/contracts
+@zk-kit/lean-imt.sol/=lib/zk-kit.solidity/packages/lean-imt/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
